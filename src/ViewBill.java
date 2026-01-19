@@ -13,7 +13,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author sarav
+ * @author Janani
  */
 public class ViewBill extends javax.swing.JFrame {
 
