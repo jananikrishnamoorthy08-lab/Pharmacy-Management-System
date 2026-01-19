@@ -7,7 +7,7 @@ import java.sql.*;
 import dao.ConnectionProvider;
 /**
  *
- * @author sarav
+ * @author Janani
  */
 public class AddMedicine extends javax.swing.JFrame {
     public String numberPattern = "^[0-9]*$";
