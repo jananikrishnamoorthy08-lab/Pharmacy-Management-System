@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author sarav
+ * @author Janani
  */
 public class PharmacistDashboard extends javax.swing.JFrame {
     private String username = "";
