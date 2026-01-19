@@ -8,7 +8,7 @@ import java.sql.ResultSet;
 import dao.ConnectionProvider;
 /**
  *
- * @author sarav
+ * @author Janani
  */
 public class Profile extends javax.swing.JFrame {
     public String emailPattern = "^[a-zA-Z0-9]+[@]+[a-zA-Z0-9]+[.]+[a-zA-Z0-9]+$";
