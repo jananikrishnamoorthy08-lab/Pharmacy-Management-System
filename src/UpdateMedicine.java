@@ -10,7 +10,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 /**
  *
- * @author sarav
+ * @author Janani
  */
 public class UpdateMedicine extends javax.swing.JFrame {
     public String numberPattern = "^[0-9]*$";
