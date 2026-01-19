@@ -13,7 +13,7 @@
  import dao.ConnectionProvider;
 /**
  *
- * @author sarav
+ * @author Janani
  */
 public class Adduser extends javax.swing.JFrame {
       public String emailPattern = "^[a-zA-Z0-9]+[@]+[a-zA-Z0-9]+[.]+[a-zA-Z0-9]+$";
