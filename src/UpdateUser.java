@@ -15,7 +15,7 @@ import java.sql.ResultSet;
 
 /**
  *
- * @author sarav
+ * @author Janani
  */
 public class UpdateUser extends javax.swing.JFrame {
     private String emailPattern ="^[a-zA-Z0-9]+[@]+[a-zA-Z0-9]+[.]+[a-zA-Z0-9]+$"; 
