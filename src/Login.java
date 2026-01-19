@@ -9,7 +9,7 @@ import java.sql.Connection;
 
 /**
  *
- * @author sarav
+ * @author Janani
  */
 public class Login extends javax.swing.JFrame {
 
