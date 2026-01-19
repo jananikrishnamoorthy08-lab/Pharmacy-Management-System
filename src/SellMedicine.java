@@ -20,7 +20,7 @@ import java.text.SimpleDateFormat;
 
 /**
  *
- * @author sarav
+ * @author Janani
  */
 public class SellMedicine extends javax.swing.JFrame {
 
